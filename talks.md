@@ -8,7 +8,7 @@ https://github.com/mode-collaboration/documents
 
 | Author        | Title           | Type  | Location | Date | Link to material (optional) |
 | ------------- |:-------------:| -----:| :---: | :---: | :---: |
-| Tommaso Dorigo | Applications of Differentiable Programming to Fundamental Physics Research: Status and Perspectives | Invited lecture | ECT Trento, "Machine Learning for HEP, on and off the lattice" conference | September 28 2021 | ask |
+| Tommaso Dorigo | Applications of Differentiable Programming to Fundamental Physics Research: Status and Perspectives | Invited lecture | ECT* Trento, "Machine Learning for HEP, on and off the lattice" conference | September 28 2021 | ask |
 | Tommaso Dorigo | Toward the End-to-End Optimization of Detector Design with Differentiable Programming | Talk at conference | "ICNFP 2021", Kolymbari | August 23 2021 | ask |
 | Tommaso Dorigo | Toward the End-to-End Optimization of Detector Design with Differentiable Programming | Invited seminar | Origins data science Lab | June 18 2021 | ask |
 | Tommaso Dorigo | Toward the End-to-Endo Optimization of Detector Design with Differentiable Programming | Invited seminar | Lund University | November 2 2021 | ask |
